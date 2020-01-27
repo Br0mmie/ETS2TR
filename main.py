@@ -1,4 +1,4 @@
-# COPYRIGHT BR0MZ AKA STIG HAAG BROMMANN!s
+# COPYRIGHT BR0MZ AKA STIG HAAG BROMMANN!
 
 import win32com.client as wincl
 from string import Template
